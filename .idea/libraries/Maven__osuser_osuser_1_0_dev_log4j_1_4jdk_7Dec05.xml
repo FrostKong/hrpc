@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: osuser:osuser:1.0-dev-log4j-1.4jdk-7Dec05">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/osuser/osuser/1.0-dev-log4j-1.4jdk-7Dec05/osuser-1.0-dev-log4j-1.4jdk-7Dec05.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/osuser/osuser/1.0-dev-log4j-1.4jdk-7Dec05/osuser-1.0-dev-log4j-1.4jdk-7Dec05-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/osuser/osuser/1.0-dev-log4j-1.4jdk-7Dec05/osuser-1.0-dev-log4j-1.4jdk-7Dec05-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

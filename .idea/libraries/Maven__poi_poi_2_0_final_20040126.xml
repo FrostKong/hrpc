@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: poi:poi:2.0-final-20040126">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/poi/poi/2.0-final-20040126/poi-2.0-final-20040126.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/poi/poi/2.0-final-20040126/poi-2.0-final-20040126-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/poi/poi/2.0-final-20040126/poi-2.0-final-20040126-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
